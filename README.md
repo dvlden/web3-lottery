@@ -11,6 +11,8 @@ But if you just want to run the project, you may do so:
 - `npm i`
 - `npm run dev`
 
+> **IMPORTANT:** If you want to stick with Rinkeby Testnet, I suggest requesting Ether from [Chainlink](https://faucets.chain.link/rinkeby).
+
 This is my first **web3 project**. If you want to follow my journey, make sure to follow me on:
 
 - [GitHub](https://github.com/dvlden/)
