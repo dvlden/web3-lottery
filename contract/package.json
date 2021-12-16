@@ -1,0 +1,25 @@
+{
+  "name": "lottery-contract",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "node deploy.js",
+    "test": "mocha"
+  },
+  "author": {
+    "name": "Nenad Novaković",
+    "email": "n.dvlden@gmail.com",
+    "url": "https://github.com/dvlden"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.1",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.3",
+    "solc": "^0.4.17"
+  }
+}
